@@ -115,7 +115,7 @@ display: grid;
     display:grid;
     color:rgb(0, 0, 0);
     align-content:space-around;
-    justify-content:center;
+    justify-content:left;
     width:auto;
     
     
